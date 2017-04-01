@@ -4,7 +4,7 @@
         </div>
 
 	  <div class="container">
-	      <label><b>user name= vinay kumar:</b></label>
+	      <label><b>user name: Ramesh naidu</b></label>
 	          <input type="text" placeholder="Enter Username" name="uname" required>
 
 		      <label><b>Password</b></label>
